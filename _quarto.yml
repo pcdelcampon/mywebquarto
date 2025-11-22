@@ -14,7 +14,7 @@ website:
         href: dataviz.qmd
       - text: "Contact"
         href: contact.qmd
-
+        
 format:
   html:
     theme: cosmo
