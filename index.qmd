@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me"
 format:
   html:
     page-layout: full
@@ -31,9 +31,7 @@ format:
   <!-- CODIGO DE TEXTO -->
   <p style="font-size: 1.05rem; margin-top: 1.8rem; text-align: justify;">
     Statistician and Data Scientist who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling.
-  
-    I am passionate about using data to understand people, systems, and real-world challenges. 
-    My goal is to make insights accessible, meaningful, and useful for better decision-making.
+    I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.
   </p>
 
   </div>

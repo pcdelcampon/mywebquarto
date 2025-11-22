@@ -6,8 +6,6 @@ website:
   title: "Data Worker"
   navbar:
     left:
-      - text: "About"
-        href: index.qmd
       - text: "Portfolio"
         href: portfolio.qmd
       - text: "Experience"
