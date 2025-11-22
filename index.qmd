@@ -10,7 +10,7 @@ format:
   <!-- FOTO A LA IZQUIERDA -->
   <img src="images/pcdcn_blancofondo.png"
        width="200"
-       style="border-radius: 50%; box-shadow: 0 4px 8px rgba(6, 6, 6, 1);">
+       style="border-radius: 50%; box-shadow: 0 4px 8px rgba(6, 6, 6, 1); text-align: center">
 
   <!-- TEXTO A LA DERECHA -->
   <div style="max-width: 600px; text-align: justify;">
@@ -55,3 +55,7 @@ format:
   </div>
 
 </div>
+
+# Skills
+
+# Expirience
