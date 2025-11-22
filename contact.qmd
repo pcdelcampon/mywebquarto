@@ -1,0 +1,16 @@
+
+---
+title: "Under Construction"
+---
+
+::: {style="text-align: center; padding: 100px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white;"}
+
+# 🚧 {style="font-size: 100px; margin: 0;"}
+
+## This section is under construction
+
+I am working hard to bring you something great!
+
+**Coming Soon** ✨
+
+:::

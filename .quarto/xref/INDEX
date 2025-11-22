@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "7d951f4f"
+  },
+  "contact.qmd": {
+    "contact.html": "c78c1177"
+  },
+  "dataviz.qmd": {
+    "dataviz.html": "e7c821a3"
+  },
+  "portafolio.qmd": {
+    "portafolio.html": "0d090736"
+  },
+  "resume.qmd": {
+    "resume.html": "4b182605"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "1fc73a51"
+  },
+  "experience.qmd": {
+    "experience.html": "4cbc7df3"
+  }
+}

@@ -1,0 +1,611 @@
+---
+title: "Work Experience"
+format: 
+  html:
+    page-layout: full
+---
+
+```{=html}
+<style>
+/* Timeline container */
+.timeline {
+  position: relative;
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 40px 20px;
+}
+
+/* Vertical line */
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 30px;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: linear-gradient(180deg, #2563eb 0%, #7c3aed 100%);
+  border-radius: 2px;
+}
+
+/* Timeline item */
+.timeline-item {
+  position: relative;
+  margin-bottom: 40px;
+  padding-left: 80px;
+}
+
+/* Timeline marker (dot) */
+.timeline-marker {
+  position: absolute;
+  left: 18px;
+  top: 10px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: #2563eb;
+  border: 5px solid #ffffff;
+  box-shadow: 0 0 0 3px #2563eb, 0 4px 12px rgba(37, 99, 235, 0.3);
+  z-index: 2;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.timeline-item:hover .timeline-marker {
+  transform: scale(1.4);
+  background: #7c3aed;
+  box-shadow: 0 0 0 3px #7c3aed, 0 6px 20px rgba(124, 58, 237, 0.5);
+}
+
+/* Timeline content box */
+.timeline-content {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 28px 32px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  border-left: 5px solid #2563eb;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.timeline-item:hover .timeline-content {
+  box-shadow: 0 20px 25px -5px rgba(37, 99, 235, 0.15), 0 10px 10px -5px rgba(37, 99, 235, 0.1);
+  transform: translateX(8px);
+  border-left-color: #7c3aed;
+}
+
+/* Timeline header */
+.timeline-header h3 {
+  margin: 0 0 10px 0;
+  color: #0f172a;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.timeline-header .company {
+  display: block;
+  color: #2563eb;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.timeline-header .period {
+  display: inline-block;
+  background: #eff6ff;
+  color: #1e40af;
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 6px 14px;
+  border-radius: 20px;
+  margin-bottom: 18px;
+  border: 1px solid #bfdbfe;
+}
+
+/* Timeline details list */
+.timeline-details {
+  margin: 20px 0 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.timeline-details li {
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 12px;
+  color: #334155;
+  line-height: 1.7;
+  font-size: 0.98rem;
+}
+
+.timeline-details li::before {
+  content: '→';
+  position: absolute;
+  left: 0;
+  color: #2563eb;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .timeline {
+    padding: 20px 10px;
+  }
+  
+  .timeline::before {
+    left: 15px;
+  }
+  
+  .timeline-marker {
+    left: 6px;
+    width: 20px;
+    height: 20px;
+    border: 4px solid #ffffff;
+  }
+  
+  .timeline-item {
+    padding-left: 50px;
+    margin-bottom: 30px;
+  }
+  
+  .timeline-content {
+    padding: 20px 20px;
+  }
+  
+  .timeline-header h3 {
+    font-size: 1.25rem;
+  }
+  
+  .timeline-header .company {
+    font-size: 1rem;
+  }
+  
+  .timeline-header .period {
+    font-size: 0.85rem;
+    padding: 5px 12px;
+  }
+  
+  .timeline-details li {
+    font-size: 0.9rem;
+  }
+}
+</style>
+
+<div class="timeline">
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Senior Statistician</h3>
+      <span class="company">Secretaría de Cultura, Recreación y Deporte (SCRD)</span>
+      <span class="period">Jul 2024 - Dec 2024 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Developed methodological designs for data collection, monitoring, and evaluation in cultural research</li>
+      <li>Designed sampling strategies integrating quantitative and qualitative instruments</li>
+      <li>Produced statistical visualizations to support cultural decision-making</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>General Coordinator</h3>
+      <span class="company">Colectivo Datos, Arte, Ciencia y Cultura (DACC)</span>
+      <span class="period">Feb 2023 - May 2024 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Led design, implementation, and evaluation of projects integrating art, science, and AI</li>
+      <li>Focused on initiatives for children and local communities</li>
+      <li>Provided technical coordination for programs in Santa Fe and San Cristóbal districts</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Instructor – Introduction to Risk Systems Seminar</h3>
+      <span class="company">FORUM – Universidad de La Sabana</span>
+      <span class="period">Oct 2023 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Designed and facilitated 8-hour intensive R programming course for risk analysis</li>
+      <li>Applied methodologies using real insurance datasets (Previsora Seguros)</li>
+      <li>Focused on modeling, visualization, and strategic decision-making support</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Research Statistician</h3>
+      <span class="company">Secretaría Distrital de Movilidad (SDM)</span>
+      <span class="period">Aug 2017 - Dec 2022 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Conducted descriptive and predictive analysis for traffic crash prevention strategies</li>
+      <li>Designed indicators and data visualizations for road safety initiatives</li>
+      <li>Provided big data and sampling design support across multiple departments</li>
+      <li>Coordinated with Mobility Intelligence Directorate and Road Safety Office</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">GEB – Ecologic S.A.S.</span>
+      <span class="period">Oct 2020 - Aug 2021 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Designed data collection tools for the Colectora project</li>
+      <li>Conducted statistical analyses and produced descriptive reports</li>
+      <li>Developed forecasting models for environmental sustainability and urban management</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">Instituto Nacional de Salud (INS)</span>
+      <span class="period">Jun 2020 - Dec 2020 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Analyzed data and developed predictive models during COVID-19 health emergency</li>
+      <li>Supported public policy formulation with technical guidance</li>
+      <li>Designed computational models and simulations for National Health Observatory</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">Universidad Nacional de Colombia in partnership with ICBF</span>
+      <span class="period">Jun 2018 - Nov 2018 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Lead statistician for Colombian Food Composition Table (TCAC 2018) imputation system</li>
+      <li>Managed data validation, verification, and imputation processes</li>
+      <li>Prepared outputs for publication and visualization</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">Rodrigo & Asociados</span>
+      <span class="period">Sep 2017 - Dec 2017 | Santiago, Chile</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Designed sampling plans for "Buen Vivir and Indigenous Peoples Development in Chile" project</li>
+      <li>Developed indicators and systematized data with metadata generation</li>
+      <li>Provided technical support for Indigenous Development Fund (FDI) orientation</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician Consultant</h3>
+      <span class="company">Facultad de Odontología, Universidad Nacional de Colombia</span>
+      <span class="period">Mar 2017 - Dec 2017 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Provided consulting for undergraduate and graduate research projects</li>
+      <li>Advised on sampling design, statistical test selection, and database construction</li>
+      <li>Produced academic, financial, and administrative statistics for the Faculty</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">Corporación Gaita Viva</span>
+      <span class="period">Jan 2016 - Sep 2016 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Conducted sociodemographic profiling of cultural project beneficiaries</li>
+      <li>Designed monitoring and impact evaluation strategies for artistic initiatives</li>
+      <li>Developed information systematization tools for cultural management</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Consultant</h3>
+      <span class="company">Food and Agriculture Organization (FAO)</span>
+      <span class="period">Jul 2015 - Dec 2015 | Santiago, Chile</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Provided methodological consulting for FAO's statistical program in Latin America and Caribbean</li>
+      <li>Developed technical guidelines for agricultural statistics data collection</li>
+      <li>Advised national teams on strengthening statistical capacities</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician Professional</h3>
+      <span class="company">DANE – DIMPE (National Statistics Department)</span>
+      <span class="period">Oct 2013 - Nov 2015 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Designed and validated samples for environmental and agricultural sector surveys</li>
+      <li>Conducted statistical analyses to enhance data quality</li>
+      <li>Supported production of technical information for institutional decision-making</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Instructor – R Programming Courses</h3>
+      <span class="company">DANE – CANDANE</span>
+      <span class="period">Aug - Sep 2014 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Delivered 30-hour introductory and 40-hour advanced R programming courses</li>
+      <li>Developed competencies in data analysis, visualization, and interpretation</li>
+      <li>Applied statistical tools for practical problem-solving</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistics Lecturer</h3>
+      <span class="company">Universidad de Ciencias Aplicadas y Ambientales (U.D.C.A.)</span>
+      <span class="period">2012 - 2013 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Taught undergraduate Statistics and Mathematics courses</li>
+      <li>Served economics, accounting, business, and international business programs</li>
+      <li>Designed course content, instructional materials, and competency evaluations</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">Fundación Construcción Local</span>
+      <span class="period">Jan 2013 - Nov 2013 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Produced quantitative assessments with Local Culture Team</li>
+      <li>Identified weaknesses in District and Local Cultural Policy implementation</li>
+      <li>Analyzed cultural dimensions and processes in 2004-2016 Local Cultural Plan</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistical Advisor</h3>
+      <span class="company">La Tribu</span>
+      <span class="period">Jan 2012 - Dec 2012 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Provided statistical consulting for projects with children, youth, and conflict victims</li>
+      <li>Conducted population profiling and impact evaluation methodologies</li>
+      <li>Analyzed data to support social and community-based interventions</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">DANE – DIRPEN</span>
+      <span class="period">Jun 2012 - Jul 2012 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Reviewed implementation of sampling designs through technical documentation analysis</li>
+      <li>Contributed to statistical production model refinement</li>
+      <li>Updated institutional guide for standard methodological documentation</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">AGROSAVIA (Colombian Agricultural Research Corporation)</span>
+      <span class="period">Dec 2011 - Jul 2012 | Mosquera, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Provided consulting for raw milk testing laboratories project</li>
+      <li>Designed sampling strategies and experimental design methods</li>
+      <li>Validated results and evaluated repeatability and reproducibility</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">DANE – DIG</span>
+      <span class="period">Nov 2011 - Dec 2011 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Performed statistical review of urban and rural stratification databases</li>
+      <li>Provided technical guidance on geospatial information interpretation</li>
+      <li>Supported implementation of socioeconomic stratification system</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">Grupo Empresarial en Línea S.A. (GELSA)</span>
+      <span class="period">Sep 2011 - Dec 2011 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Improved accounting, budget, and revenue information systems</li>
+      <li>Estimated average transaction times by technology and product</li>
+      <li>Designed sampling strategies and developed specialized software for operational analysis</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">CENIACUA (Aquaculture Research Center)</span>
+      <span class="period">Sep 2010 - Oct 2011 | Cartagena, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Provided consulting for Site-Specific Aquaculture project (AES Phase I)</li>
+      <li>Maintained and updated production and meteorological databases</li>
+      <li>Participated in scientific publications and dissemination events</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">Colegio Claustro Moderno</span>
+      <span class="period">May 2010 - Jul 2010 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Designed sample framework for school population characterization survey</li>
+      <li>Targeted students from kindergarten through 11th grade in Bogotá</li>
+      <li>Defined sampling parameters and data collection structure</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">ICFES (Colombian Institute for Educational Evaluation)</span>
+      <span class="period">Apr 2008 - Jun 2010 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Analyzed ECAES exam data and produced historical reports</li>
+      <li>Defined methodology for socioeconomic index calculation</li>
+      <li>Conducted studies on associated factors in national assessments</li>
+      <li>Calculated sample-based estimates for SABER results</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistician</h3>
+      <span class="company">Universidad Nacional de Colombia</span>
+      <span class="period">Aug 2008 - Dec 2008 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Processed and analyzed data for Colombian Food Composition Table update (Phase II)</li>
+      <li>Validated nutritional information and organized final database</li>
+      <li>Coordinated with ICBF for publication preparation</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistics Assistant</h3>
+      <span class="company">Universidad Nacional de Colombia</span>
+      <span class="period">Feb 2008 - Mar 2008 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Supported national verification survey for Constitutional Court Ruling T-025</li>
+      <li>Assisted field coordination for displaced populations study</li>
+      <li>Performed graphical segmentation to define survey blocks and segments</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistics Assistant</h3>
+      <span class="company">Universidad Nacional de Colombia</span>
+      <span class="period">Apr 2007 - Sep 2007 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Supported Colombian Food Composition Table data extraction and processing</li>
+      <li>Provided technical assistance in validation of nutritional information</li>
+      <li>Collaborated with ICBF in data structuring</li>
+    </ul>
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-marker"></div>
+  <div class="timeline-content">
+    <div class="timeline-header">
+      <h3>Statistics Assistant</h3>
+      <span class="company">Universidad Nacional de Colombia</span>
+      <span class="period">Feb 2007 - Apr 2007 | Bogotá, Colombia</span>
+    </div>
+    <ul class="timeline-details">
+      <li>Designed questionnaire for cervical cytology awareness study</li>
+      <li>Created sampling framework targeting women aged 25-69 in Soacha communes</li>
+      <li>Defined technical specifications for data validation and imputation</li>
+    </ul>
+  </div>
+</div>
+
+</div>
+```
