@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Data Worker",
     "section": "",
-    "text": "Data Worker who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling. I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.\nView portfolio Download CV Let’s talk\n\n\n\n  \n\n\n\n  \n\n\n\n  \n\n\n\n  \n\n\n\n\n8+\nYears in data\n\n\n20+\nProjects delivered\n\n\n-30%\nReporting time\nStatistician and Data Scientist with extensive experience managing multidisciplinary and strategic analytical projects. Expert in processing and analyzing large volumes of data to generate key insights for decision-making. Proven track record in diverse fields including mobility, culture, health, fintech, marketing, education, nutrition, environment, social development, Indigenous communities, financial technology, and public policy. Known for my capacity for self-learning, adaptability to new technologies, and strong results-oriented mindset. Proficient in statistical sampling, multivariate methods, and predictive modeling, with advanced command of Python, R, SQL, and cloud-based analytical environments."
+    "text": "Data Worker who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling. I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.\nView portfolio Download CV Let’s talk\n\n\n\n  \n\n\n\n  \n\n\n\n  \n\n\n\n  \n\n\n\n\n12+\nYears in data\n\n\n20+\nProjects delivered\n\n\n-30%\nReporting time\nStatistician and Data Scientist with more than 12 years of extensive experience managing multidisciplinary and strategic analytical projects. Expert in processing and analyzing large volumes of data to generate key insights for decision-making. Proven track record in diverse fields including mobility, culture, health, fintech, marketing, education, nutrition, environment, social development, Indigenous communities, financial technology, and public policy. Known for my capacity for self-learning, adaptability to new technologies, and strong results-oriented mindset. Proficient in statistical sampling, multivariate methods, and predictive modeling, with advanced command of Python, R, SQL, and cloud-based analytical environments."
   },
   {
     "objectID": "index.html#what-i-do",
@@ -61,6 +61,13 @@
     "title": "Data Worker",
     "section": "What I do",
     "text": "What I do\n\n\nStatistical Design & Sampling\nMethodological designs, sampling frames, and survey/redesign work for public policy, culture, environment, and mobility.\n\n\nPredictive & Risk Modeling\nCrash risk, health, and forecasting models using Python/R (multivariate methods, imputation, simulations, ML).\n\n\nAnalytics & Data Products\nDashboards and KPIs in Power BI/Quarto; indicators and metadata to operationalize decisions in government and industry.\n\n\nTraining & Facilitation\nWorkshops and courses in R/Python, risk analysis, and data literacy for teams, universities, and public agencies."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Data Worker",
+    "section": "Featured projects",
+    "text": "Featured projects\n\nProject A (example) — Automated reporting. Cut delivery time by 30% with Python + Power BI pipelines.\nProject B (example) — Churn model. Identified critical segments and improved retention by 12%.\nProject C (example) — Executive dashboard. Clear KPIs for leadership, adopted by 50+ users.\n\n(Replace with your real cases and link to portfolio.qmd#project and repos if relevant.)"
   },
   {
     "objectID": "index.html#quick-stack",
@@ -75,6 +82,13 @@
     "title": "Data Worker",
     "section": "How I work",
     "text": "How I work\n\nStart from the business question and define success metrics.\nBuild reproducible, documented pipelines.\nDeliver simple-to-read, actionable visuals."
+  },
+  {
+    "objectID": "index.html#testimonials-outcomes",
+    "href": "index.html#testimonials-outcomes",
+    "title": "Data Worker",
+    "section": "Testimonials / outcomes",
+    "text": "Testimonials / outcomes\n\n“Pedro simplified our reporting and gave us weekly clarity.” — Client / Internal team\n\n\n“The dashboards became the official source for leadership.” — Stakeholder\n\n(Swap in real quotes when you have them.)"
   },
   {
     "objectID": "index.html#next-step",
