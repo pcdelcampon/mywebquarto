@@ -1,61 +1,89 @@
 ---
-title: "About me"
+title: "Data Worker"
 format:
   html:
     page-layout: full
 ---
 
-<div style="display: flex; align-items: center; gap: 2rem; padding: 2rem; flex-wrap: wrap;">
+::: {.grid .gap-4 .mb-5}
+::: {.g-col-12 .g-col-md-7}
+# Hola, soy Pedro César Del Campo
 
-  <!-- FOTO A LA IZQUIERDA -->
-  <img src="images/pcdcn_blancofondo.png"
-       width="200"
-       style="border-radius: 50%; box-shadow: 0 4px 8px rgba(6, 6, 6, 1); text-align: center">
+Data scientist & statistician que convierte datos en decisiones claras. Diseño flujos de datos reproducibles, modelos accionables y visualizaciones que la gente realmente usa.
 
-  <!-- TEXTO A LA DERECHA -->
-  <div style="max-width: 600px; text-align: justify;">
-
-   <h1 style="margin-bottom: 2.0rem; text-align: center; line-height: 1.2;">
-    Pedro César <br> Del Campo Neira
-   </h1>
-
-<!-- BOTONES SOCIALES -->
-<div style="display: flex; justify-content: center; gap: 1.5rem; margin-bottom: 3rem; flex-wrap: wrap;">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/pcdelcampon" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-         width="32" alt="LinkedIn">
-  </a>
-
-<!-- GitHub (ya tienes) -->
-<a href="https://github.com/pcdelcampon" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32" alt="GitHub">
-</a>
-
-<!-- DataCamp -->
-<a href="https://www.datacamp.com/profile/pcdelcampon" target="_blank">
-  <img src="images/datacamp.jpg" width="32" alt="DataCamp">
-</a>
-
-<!-- Platzi -->
-<a href="https://platzi.com/p/pcdelcampon1983/" target="_blank">
-  <img src="images/icon_platzi.jpeg" width="32" alt="Platzi">
-</a>
-
-
+<div style="margin-top: 1.5rem; display: flex; gap: 0.75rem; flex-wrap: wrap;">
+  <a class="btn btn-success" href="portfolio.qmd">Ver portfolio</a>
+  <a class="btn btn-outline-light" href="assets/CV.pdf">Descargar CV</a>
+  <a class="btn btn-outline-light" href="contact.qmd">Hablemos</a>
 </div>
 
-  <!-- CODIGO DE TEXTO -->
-  <p style="font-size: 1.05rem; margin-top: 1.8rem; text-align: justify;">
-    Statistician and Data Scientist who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling.
-    I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.
-  </p>
-
+<div style="display: flex; gap: 1.5rem; margin-top: 2rem; flex-wrap: wrap;">
+  <div style="min-width: 140px;">
+    <div style="font-size: 2rem; font-weight: 700;">8+</div>
+    <div style="opacity: 0.8;">Años en datos</div>
   </div>
-
+  <div style="min-width: 140px;">
+    <div style="font-size: 2rem; font-weight: 700;">20+</div>
+    <div style="opacity: 0.8;">Proyectos entregados</div>
+  </div>
+  <div style="min-width: 140px;">
+    <div style="font-size: 2rem; font-weight: 700;">-30%</div>
+    <div style="opacity: 0.8;">Tiempo de reporte</div>
+  </div>
 </div>
+:::
+::: {.g-col-12 .g-col-md-5}
+![](images/pcdcn_blancofondo.png){width="240" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.12); display:block; margin-left:auto; margin-right:auto;"}
+:::
+:::
 
-# Skills
+## Qué hago
 
-# Expirience
+::: {.grid .gap-3 .mt-3}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+**Data Engineering**  
+Pipelines en Python/SQL, orquestación y data quality para tener fuentes confiables.
+:::
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+**Analytics & BI**  
+Dashboards claros en Power BI/Tableau con métricas accionables para negocio.
+:::
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+**Data Science**  
+Modelos predictivos y segmentación con foco en impacto y despliegue simple.
+:::
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+**DataViz**  
+Narrativas visuales en Quarto/ggplot para insights que se entienden rápido.
+:::
+:::
+
+## Proyectos destacados
+
+- **Proyecto A (ejemplo)** — Automatización de reportes. Reduje tiempos de entrega en 30% con pipelines en Python + Power BI.
+- **Proyecto B (ejemplo)** — Modelo de churn. Identifiqué segmentos críticos y mejoré retención en 12%.
+- **Proyecto C (ejemplo)** — Tablero ejecutivo. KPIs claros para dirección, adoptado por 50+ usuarios.
+
+_(Reemplaza con tus casos reales y enlaza a `portfolio.qmd#proyecto` y repos si aplica.)_
+
+## Stack rápido
+
+`Python` · `R` · `SQL` · `Power BI / Tableau` · `Pandas` · `Scikit-learn` · `Quarto` · `Git`
+
+## Cómo trabajo
+
+- Empiezo por la pregunta de negocio y defino métricas de éxito.
+- Hago pipelines reproducibles y documentados.
+- Entrego visualizaciones sencillas de leer y accionables.
+
+## Testimonios / resultados
+
+> "Pedro simplificó nuestro reporting y nos dio claridad semanal." — Cliente / Equipo interno
+
+> "Los dashboards se volvieron la fuente oficial para dirección." — Stakeholder
+
+_(Sustituye por citas reales cuando las tengas.)_
+
+## Próximo paso
+
+Si quieres explorar una colaboración o un diagnóstico rápido, contáctame en `contact.qmd` o en LinkedIn.
