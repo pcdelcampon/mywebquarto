@@ -20,9 +20,9 @@ website:
         href: contact.qmd
     right:
       - icon: github
-        href: https://github.com/tu_usuario
+        href: https://github.com/pcdelcampon
       - icon: linkedin
-        href: https://www.linkedin.com/in/tu_usuario
+        href: https://www.linkedin.com/in/pcdelcampon
   page-footer:
     left: "© 2024 Data Worker — Built with Quarto"
     right: "Made with data & espresso"
