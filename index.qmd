@@ -7,83 +7,86 @@ format:
 
 ::: {.grid .gap-4 .mb-5}
 ::: {.g-col-12 .g-col-md-7}
-# Hola, soy Pedro César Del Campo
+# Hi, I am Pedro César Del Campo
 
-Data scientist & statistician que convierte datos en decisiones claras. Diseño flujos de datos reproducibles, modelos accionables y visualizaciones que la gente realmente usa.
+Data Worker who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling. I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.
 
 <div style="margin-top: 1.5rem; display: flex; gap: 0.75rem; flex-wrap: wrap;">
-  <a class="btn btn-success" href="portfolio.qmd">Ver portfolio</a>
-  <a class="btn btn-outline-light" href="assets/CV.pdf">Descargar CV</a>
-  <a class="btn btn-outline-light" href="contact.qmd">Hablemos</a>
+  <a class="btn btn-success" href="portfolio.qmd">View portfolio</a>
+  <a class="btn btn-outline-light" href="assets/CV.pdf">Download CV</a>
+  <a class="btn btn-outline-light" href="contact.qmd">Let’s talk</a>
 </div>
 
 <div style="display: flex; gap: 1.5rem; margin-top: 2rem; flex-wrap: wrap;">
   <div style="min-width: 140px;">
     <div style="font-size: 2rem; font-weight: 700;">8+</div>
-    <div style="opacity: 0.8;">Años en datos</div>
+    <div style="opacity: 0.8;">Years in data</div>
   </div>
   <div style="min-width: 140px;">
     <div style="font-size: 2rem; font-weight: 700;">20+</div>
-    <div style="opacity: 0.8;">Proyectos entregados</div>
+    <div style="opacity: 0.8;">Projects delivered</div>
   </div>
   <div style="min-width: 140px;">
     <div style="font-size: 2rem; font-weight: 700;">-30%</div>
-    <div style="opacity: 0.8;">Tiempo de reporte</div>
+    <div style="opacity: 0.8;">Reporting time</div>
   </div>
 </div>
+
 :::
 ::: {.g-col-12 .g-col-md-5}
 ![](images/pcdcn_blancofondo.png){width="240" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.12); display:block; margin-left:auto; margin-right:auto;"}
 :::
 :::
 
-## Qué hago
+Statistician and Data Scientist with extensive experience managing multidisciplinary and strategic analytical projects. Expert in processing and analyzing large volumes of data to generate key insights for decision-making. Proven track record in diverse fields including mobility, culture, health, fintech, marketing, education, nutrition, environment, social development, Indigenous communities, financial technology, and public policy. Known for my capacity for self-learning, adaptability to new technologies, and strong results-oriented mindset. Proficient in statistical sampling, multivariate methods, and predictive modeling, with advanced command of Python, R, SQL, and cloud-based analytical environments.
+
+## What I do
 
 ::: {.grid .gap-3 .mt-3}
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 **Data Engineering**  
-Pipelines en Python/SQL, orquestación y data quality para tener fuentes confiables.
+Python/SQL pipelines, orchestration, and data quality to keep sources reliable.
 :::
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 **Analytics & BI**  
-Dashboards claros en Power BI/Tableau con métricas accionables para negocio.
+Clear dashboards in Power BI/Tableau with metrics the business can act on.
 :::
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 **Data Science**  
-Modelos predictivos y segmentación con foco en impacto y despliegue simple.
+Predictive models and segmentation focused on impact and simple deployment.
 :::
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
 **DataViz**  
-Narrativas visuales en Quarto/ggplot para insights que se entienden rápido.
+Visual narratives in Quarto/ggplot that surface insights fast.
 :::
 :::
 
-## Proyectos destacados
+## Featured projects
 
-- **Proyecto A (ejemplo)** — Automatización de reportes. Reduje tiempos de entrega en 30% con pipelines en Python + Power BI.
-- **Proyecto B (ejemplo)** — Modelo de churn. Identifiqué segmentos críticos y mejoré retención en 12%.
-- **Proyecto C (ejemplo)** — Tablero ejecutivo. KPIs claros para dirección, adoptado por 50+ usuarios.
+- **Project A (example)** — Automated reporting. Cut delivery time by 30% with Python + Power BI pipelines.
+- **Project B (example)** — Churn model. Identified critical segments and improved retention by 12%.
+- **Project C (example)** — Executive dashboard. Clear KPIs for leadership, adopted by 50+ users.
 
-_(Reemplaza con tus casos reales y enlaza a `portfolio.qmd#proyecto` y repos si aplica.)_
+_(Replace with your real cases and link to `portfolio.qmd#project` and repos if relevant.)_
 
-## Stack rápido
+## Quick stack
 
 `Python` · `R` · `SQL` · `Power BI / Tableau` · `Pandas` · `Scikit-learn` · `Quarto` · `Git`
 
-## Cómo trabajo
+## How I work
 
-- Empiezo por la pregunta de negocio y defino métricas de éxito.
-- Hago pipelines reproducibles y documentados.
-- Entrego visualizaciones sencillas de leer y accionables.
+- Start from the business question and define success metrics.
+- Build reproducible, documented pipelines.
+- Deliver simple-to-read, actionable visuals.
 
-## Testimonios / resultados
+## Testimonials / outcomes
 
-> "Pedro simplificó nuestro reporting y nos dio claridad semanal." — Cliente / Equipo interno
+> "Pedro simplified our reporting and gave us weekly clarity." — Client / Internal team
 
-> "Los dashboards se volvieron la fuente oficial para dirección." — Stakeholder
+> "The dashboards became the official source for leadership." — Stakeholder
 
-_(Sustituye por citas reales cuando las tengas.)_
+_(Swap in real quotes when you have them.)_
 
-## Próximo paso
+## Next step
 
-Si quieres explorar una colaboración o un diagnóstico rápido, contáctame en `contact.qmd` o en LinkedIn.
+If you want to explore a collaboration or a quick diagnostic, reach out via `contact.qmd` or LinkedIn.
