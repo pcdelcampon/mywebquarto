@@ -23,16 +23,16 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Under Construction",
+    "title": "Contact",
     "section": "",
-    "text": "I am working hard to bring you something great!\nComing Soon ✨"
+    "text": "Email: pcdelcampon@gmail.com\nLinkedIn: linkedin.com/in/pcdelcampon\n\nIf you prefer, drop a short note about your project, context, and desired outcome. I’ll reply from my personal inbox."
   },
   {
-    "objectID": "contact.html#this-section-is-under-construction",
-    "href": "contact.html#this-section-is-under-construction",
-    "title": "Under Construction",
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Contact",
     "section": "",
-    "text": "I am working hard to bring you something great!\nComing Soon ✨"
+    "text": "Email: pcdelcampon@gmail.com\nLinkedIn: linkedin.com/in/pcdelcampon\n\nIf you prefer, drop a short note about your project, context, and desired outcome. I’ll reply from my personal inbox."
   },
   {
     "objectID": "dataviz.html",
@@ -56,60 +56,11 @@
     "text": "Data Worker who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling. I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.\nView portfolio Download CV Let’s talk\n\n\n\n  \n\n\n\n  \n\n\n\n  \n\n\n\n  \n\n\n\n\n8+\nYears in data\n\n\n20+\nProjects delivered\n\n\n-30%\nReporting time\nStatistician and Data Scientist with extensive experience managing multidisciplinary and strategic analytical projects. Expert in processing and analyzing large volumes of data to generate key insights for decision-making. Proven track record in diverse fields including mobility, culture, health, fintech, marketing, education, nutrition, environment, social development, Indigenous communities, financial technology, and public policy. Known for my capacity for self-learning, adaptability to new technologies, and strong results-oriented mindset. Proficient in statistical sampling, multivariate methods, and predictive modeling, with advanced command of Python, R, SQL, and cloud-based analytical environments."
   },
   {
-    "objectID": "index.html#qué-hago",
-    "href": "index.html#qué-hago",
-    "title": "Data Worker",
-    "section": "Qué hago",
-    "text": "Qué hago\n\n\nData Engineering\nPipelines en Python/SQL, orquestación y data quality para tener fuentes confiables.\n\n\nAnalytics & BI\nDashboards claros en Power BI/Tableau con métricas accionables para negocio.\n\n\nData Science\nModelos predictivos y segmentación con foco en impacto y despliegue simple.\n\n\nDataViz\nNarrativas visuales en Quarto/ggplot para insights que se entienden rápido."
-  },
-  {
-    "objectID": "index.html#proyectos-destacados",
-    "href": "index.html#proyectos-destacados",
-    "title": "Data Worker",
-    "section": "Proyectos destacados",
-    "text": "Proyectos destacados\n\nProyecto A (ejemplo) — Automatización de reportes. Reduje tiempos de entrega en 30% con pipelines en Python + Power BI.\nProyecto B (ejemplo) — Modelo de churn. Identifiqué segmentos críticos y mejoré retención en 12%.\nProyecto C (ejemplo) — Tablero ejecutivo. KPIs claros para dirección, adoptado por 50+ usuarios.\n\n(Reemplaza con tus casos reales y enlaza a portfolio.qmd#proyecto y repos si aplica.)"
-  },
-  {
-    "objectID": "index.html#stack-rápido",
-    "href": "index.html#stack-rápido",
-    "title": "Data Worker",
-    "section": "Stack rápido",
-    "text": "Stack rápido\nPython · R · SQL · Power BI / Tableau · Pandas · Scikit-learn · Quarto · Git"
-  },
-  {
-    "objectID": "index.html#cómo-trabajo",
-    "href": "index.html#cómo-trabajo",
-    "title": "Data Worker",
-    "section": "Cómo trabajo",
-    "text": "Cómo trabajo\n\nEmpiezo por la pregunta de negocio y defino métricas de éxito.\nHago pipelines reproducibles y documentados.\nEntrego visualizaciones sencillas de leer y accionables."
-  },
-  {
-    "objectID": "index.html#testimonios-resultados",
-    "href": "index.html#testimonios-resultados",
-    "title": "Data Worker",
-    "section": "Testimonios / resultados",
-    "text": "Testimonios / resultados\n\n“Pedro simplificó nuestro reporting y nos dio claridad semanal.” — Cliente / Equipo interno\n\n\n“Los dashboards se volvieron la fuente oficial para dirección.” — Stakeholder\n\n(Sustituye por citas reales cuando las tengas.)"
-  },
-  {
-    "objectID": "index.html#próximo-paso",
-    "href": "index.html#próximo-paso",
-    "title": "Data Worker",
-    "section": "Próximo paso",
-    "text": "Próximo paso\nSi quieres explorar una colaboración o un diagnóstico rápido, contáctame en contact.qmd o en LinkedIn."
-  },
-  {
     "objectID": "index.html#what-i-do",
     "href": "index.html#what-i-do",
     "title": "Data Worker",
     "section": "What I do",
     "text": "What I do\n\n\nStatistical Design & Sampling\nMethodological designs, sampling frames, and survey/redesign work for public policy, culture, environment, and mobility.\n\n\nPredictive & Risk Modeling\nCrash risk, health, and forecasting models using Python/R (multivariate methods, imputation, simulations, ML).\n\n\nAnalytics & Data Products\nDashboards and KPIs in Power BI/Quarto; indicators and metadata to operationalize decisions in government and industry.\n\n\nTraining & Facilitation\nWorkshops and courses in R/Python, risk analysis, and data literacy for teams, universities, and public agencies."
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Data Worker",
-    "section": "Featured projects",
-    "text": "Featured projects\n\nProject A (example) — Automated reporting. Cut delivery time by 30% with Python + Power BI pipelines.\nProject B (example) — Churn model. Identified critical segments and improved retention by 12%.\nProject C (example) — Executive dashboard. Clear KPIs for leadership, adopted by 50+ users.\n\n(Replace with your real cases and link to portfolio.qmd#project and repos if relevant.)"
   },
   {
     "objectID": "index.html#quick-stack",
@@ -126,24 +77,10 @@
     "text": "How I work\n\nStart from the business question and define success metrics.\nBuild reproducible, documented pipelines.\nDeliver simple-to-read, actionable visuals."
   },
   {
-    "objectID": "index.html#testimonials-outcomes",
-    "href": "index.html#testimonials-outcomes",
-    "title": "Data Worker",
-    "section": "Testimonials / outcomes",
-    "text": "Testimonials / outcomes\n\n“Pedro simplified our reporting and gave us weekly clarity.” — Client / Internal team\n\n\n“The dashboards became the official source for leadership.” — Stakeholder\n\n(Swap in real quotes when you have them.)"
-  },
-  {
     "objectID": "index.html#next-step",
     "href": "index.html#next-step",
     "title": "Data Worker",
     "section": "Next step",
     "text": "Next step\nIf you want to explore a collaboration or a quick diagnostic, reach out via contact.qmd or LinkedIn."
-  },
-  {
-    "objectID": "contact.html#lets-connect",
-    "href": "contact.html#lets-connect",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: pcdelcampon@gmail.com\nLinkedIn: linkedin.com/in/pcdelcampon\n\nIf you prefer, drop a short note about your project, context, and desired outcome. I’ll reply from my personal inbox."
   }
 ]

@@ -72,6 +72,7 @@ Workshops and courses in R/Python, risk analysis, and data literacy for teams, u
 :::
 :::
 
+<!--
 ## Featured projects
 
 - **Project A (example)** — Automated reporting. Cut delivery time by 30% with Python + Power BI pipelines.
@@ -80,6 +81,7 @@ Workshops and courses in R/Python, risk analysis, and data literacy for teams, u
 
 _(Replace with your real cases and link to `portfolio.qmd#project` and repos if relevant.)_
 
+-->
 ## Quick stack
 
 - Statistician
@@ -107,6 +109,7 @@ _(Replace with your real cases and link to `portfolio.qmd#project` and repos if 
 - Build reproducible, documented pipelines.
 - Deliver simple-to-read, actionable visuals.
 
+<!--
 ## Testimonials / outcomes
 
 > "Pedro simplified our reporting and gave us weekly clarity." — Client / Internal team  
@@ -115,6 +118,7 @@ _(Replace with your real cases and link to `portfolio.qmd#project` and repos if 
 
 _(Swap in real quotes when you have them.)_
 
+-->
 ## Next step
 
 If you want to explore a collaboration or a quick diagnostic, reach out via `contact.qmd` or LinkedIn.
