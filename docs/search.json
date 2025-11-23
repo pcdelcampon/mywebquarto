@@ -60,7 +60,7 @@
     "href": "index.html#what-i-do",
     "title": "Data Worker",
     "section": "What I do",
-    "text": "What I do\n\n\nStatistical Design & Sampling\nMethodological designs, sampling frames, and survey/redesign work for public policy, culture, environment, and mobility.\n\n\nPredictive & Risk Modeling\nCrash risk, health, and forecasting models using Python/R (multivariate methods, imputation, simulations, ML).\n\n\nAnalytics & Data Products\nDashboards and KPIs in Power BI/Quarto; indicators and metadata to operationalize decisions in government and industry.\n\n\nTraining & Facilitation\nWorkshops and courses in R/Python, risk analysis, and data literacy for teams, universities, and public agencies."
+    "text": "What I do\n\n\nStatistical Design & Sampling\nMethodological designs, sampling frames, and survey/redesign work for public policy, culture, environment, mobility, and multigeography rollouts.\n\n\nPredictive & Risk Modeling\nCrash risk, health, and forecasting models using Python/R (multivariate methods, imputation, simulations, ML) with explainability and monitoring.\n\n\nAnalytics & Data Products\nDashboards, KPIs, and data products in Power BI/Quarto; indicators, metadata, and delivery playbooks to operationalize decisions in government and industry.\n\n\nTraining & Facilitation\nWorkshops and courses in R/Python, risk analysis, and data literacy for teams, universities, public agencies, and private companies."
   },
   {
     "objectID": "index.html#quick-stack",
