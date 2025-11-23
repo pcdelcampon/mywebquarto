@@ -8,7 +8,7 @@ format:
 ::: {.grid .gap-4 .mb-5}
 ::: {.g-col-12 .g-col-md-7}
 
-# Hi, I am Pedro César Del Campo
+# Hi, I am Pedro César Del Campo Neira
 
 Data Worker who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling. I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.
 
@@ -55,20 +55,20 @@ Statistician and Data Scientist with extensive experience managing multidiscipli
 
 ::: {.grid .gap-3 .mt-3}
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
-**Data Engineering**  
-Python/SQL pipelines, orchestration, and data quality to keep sources reliable.
+**Statistical Design & Sampling**  
+Methodological designs, sampling frames, and survey/redesign work for public policy, culture, environment, and mobility.
 :::
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
-**Analytics & BI**  
-Clear dashboards in Power BI/Tableau with metrics the business can act on.
+**Predictive & Risk Modeling**  
+Crash risk, health, and forecasting models using Python/R (multivariate methods, imputation, simulations, ML).
 :::
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
-**Data Science**  
-Predictive models and segmentation focused on impact and simple deployment.
+**Analytics & Data Products**  
+Dashboards and KPIs in Power BI/Quarto; indicators and metadata to operationalize decisions in government and industry.
 :::
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
-**DataViz**  
-Visual narratives in Quarto/ggplot that surface insights fast.
+**Training & Facilitation**  
+Workshops and courses in R/Python, risk analysis, and data literacy for teams, universities, and public agencies.
 :::
 :::
 
@@ -82,7 +82,24 @@ _(Replace with your real cases and link to `portfolio.qmd#project` and repos if 
 
 ## Quick stack
 
-`Python` · `R` · `SQL` · `Power BI / Tableau` · `Pandas` · `Scikit-learn` · `Quarto` · `Git`
+- Statistician
+- Data Scientist
+- Big Data
+- Data Strategy
+- Sample Design
+- Index
+- Impact Investment
+- Python
+- R
+- SPSS
+- Jamovi
+- QGIS
+- SQL & NoSQL
+- APIs
+- BI & Analytics
+- Power BI
+- Data Studio
+- Positron
 
 ## How I work
 

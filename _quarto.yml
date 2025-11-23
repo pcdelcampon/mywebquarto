@@ -19,10 +19,14 @@ website:
       - text: "Contact"
         href: contact.qmd
     right:
-      - icon: github
-        href: https://github.com/pcdelcampon
       - icon: linkedin
         href: https://www.linkedin.com/in/pcdelcampon
+      - icon: github
+        href: https://github.com/pcdelcampon
+      - text: '![](images/datacamp.jpg){height=20 style="border-radius:3px;"}'
+        href: https://www.datacamp.com/profile/pcdelcampon
+      - text: '![](images/icon_platzi.jpeg){height=20 style="border-radius:3px;"}'
+        href: https://platzi.com/p/pcdelcampon1983/
   page-footer:
     left: "<span> Last update: <span id='last-update'></span></span><script>document.getElementById('last-update').textContent = new Date().toISOString().slice(0,10);</script>"
 

@@ -40,3 +40,23 @@ body::before {
 }
 
 .nav-footer { margin-top: 0.5rem; }
+
+/* Quick stack list */
+.quick-stack {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 10px 14px;
+  padding: 0;
+  margin: 0.75rem 0 0;
+}
+
+.quick-stack li {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-weight: 600;
+  color: #111827;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+}

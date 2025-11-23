@@ -1,15 +1,13 @@
 ---
-title: "Under Construction"
+title: "Contact"
+page-layout: full
 ---
 
-::: {style="text-align: center; padding: 100px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white;"}
+::: {style="max-width: 760px; margin: 0 auto; padding: 32px; background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 12px;"}
+## Let's connect
 
-# 🚧 {style="font-size: 100px; margin: 0;"}
+- Email: [pcdelcampon@gmail.com](mailto:pcdelcampon@gmail.com)
+- LinkedIn: [linkedin.com/in/pcdelcampon](https://www.linkedin.com/in/pcdelcampon)
 
-## This section is under construction
-
-I am working hard to bring you something great!
-
-**Coming Soon** ✨
-
+If you prefer, drop a short note about your project, context, and desired outcome. I'll reply from my personal inbox.
 :::
