@@ -7,34 +7,35 @@ format:
 
 ::: {.grid .gap-4 .mb-5}
 ::: {.g-col-12 .g-col-md-7}
+
 # Hi, I am Pedro César Del Campo
 
 Data Worker who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling. I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.
 
-<div style="margin-top: 1.5rem; display: flex; gap: 0.75rem; flex-wrap: wrap;">
-  <a class="btn btn-success" href="portfolio.qmd">View portfolio</a>
-  <a class="btn btn-outline-light" href="assets/CV.pdf">Download CV</a>
-  <a class="btn btn-outline-light" href="contact.qmd">Let’s talk</a>
-</div>
+[View portfolio](portfolio.qmd){.btn .btn-success}
+[Download CV](assets/CV.pdf){.btn .btn-outline-light}
+[Let’s talk](contact.qmd){.btn .btn-outline-light}
 
-<div style="display: flex; gap: 1.5rem; margin-top: 2rem; flex-wrap: wrap;">
-  <div style="min-width: 140px;">
-    <div style="font-size: 2rem; font-weight: 700;">8+</div>
-    <div style="opacity: 0.8;">Years in data</div>
-  </div>
-  <div style="min-width: 140px;">
-    <div style="font-size: 2rem; font-weight: 700;">20+</div>
-    <div style="opacity: 0.8;">Projects delivered</div>
-  </div>
-  <div style="min-width: 140px;">
-    <div style="font-size: 2rem; font-weight: 700;">-30%</div>
-    <div style="opacity: 0.8;">Reporting time</div>
-  </div>
-</div>
+::: {.grid .gap-3 .mt-4}
+::: {.g-col-12 .g-col-md-4}
+**8+**  
+Years in data
+:::
+::: {.g-col-12 .g-col-md-4}
+**20+**  
+Projects delivered
+:::
+::: {.g-col-12 .g-col-md-4}
+**-30%**  
+Reporting time
+:::
+:::
 
 :::
 ::: {.g-col-12 .g-col-md-5}
+
 ![](images/pcdcn_blancofondo.png){width="240" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.12); display:block; margin-left:auto; margin-right:auto;"}
+
 :::
 :::
 
@@ -81,9 +82,9 @@ _(Replace with your real cases and link to `portfolio.qmd#project` and repos if 
 
 ## Testimonials / outcomes
 
-> "Pedro simplified our reporting and gave us weekly clarity." — Client / Internal team
+> "Pedro simplified our reporting and gave us weekly clarity." — Client / Internal team  
 
-> "The dashboards became the official source for leadership." — Stakeholder
+> "The dashboards became the official source for leadership." — Stakeholder  
 
 _(Swap in real quotes when you have them.)_
 
