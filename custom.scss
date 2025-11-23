@@ -1,0 +1,33 @@
+/*-- scss:rules --*/
+
+/* Subtle background image overlay */
+body {
+  position: relative;
+  min-height: 100vh;
+  background-color: #f9fafb;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background:
+    linear-gradient(115deg, rgba(16, 185, 129, 0.06), rgba(59, 130, 246, 0.05)),
+    url("assets/Finance-Chart-Statistics-Backgrounds.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.1; /* keep it barely visible */
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Keep main content above the overlay */
+.quarto-container, .navbar, footer, main {
+  position: relative;
+  z-index: 1;
+}
+
+.navbar {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}

@@ -4,7 +4,11 @@ project:
 
 website:
   title: "Data Worker"
+  description: "Data science + visualización con estilo."
   navbar:
+    background: "#111827"
+    foreground: "#F9FAFB"
+    logo: assets/logo.svg
     left:
       - text: "Portfolio"
         href: portfolio.qmd
@@ -14,8 +18,27 @@ website:
         href: dataviz.qmd
       - text: "Contact"
         href: contact.qmd
-        
+    right:
+      - icon: github
+        href: https://github.com/tu_usuario
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tu_usuario
+  page-footer:
+    left: "© 2024 Data Worker — Built with Quarto"
+    right: "Made with data & espresso"
+
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [flatly, custom.scss]
     toc: false
+    code-copy: true
+    code-block-bg: "#0B1120"
+    code-block-border-left: "#10B981"
+    highlight-style: ayu-mirage
+    mainfont: "Montserrat"
+    monofont: "JetBrains Mono"
+    grid:
+      body-width: 1100px
+      margin-width: 220px
+      gutter-width: 1.6rem
