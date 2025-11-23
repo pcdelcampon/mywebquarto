@@ -24,7 +24,7 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/pcdelcampon
   page-footer:
-    left: "© 2024 Data Worker — Built with Quarto"
+    left: "<span> Last update: <span id='last-update'></span></span><script>document.getElementById('last-update').textContent = new Date().toISOString().slice(0,10);</script>"
     right: "Made with data & espresso"
 
 format:

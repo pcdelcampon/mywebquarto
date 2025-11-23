@@ -17,7 +17,7 @@ body::before {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  opacity: 0.1; /* keep it barely visible */
+  opacity: 0.06; /* keep it barely visible */
   pointer-events: none;
   z-index: -1;
 }
@@ -31,3 +31,12 @@ body::before {
 .navbar {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
 }
+
+/* Transparent footer bar */
+.quarto-page-footer, .nav-footer {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.nav-footer { margin-top: 0.5rem; }
