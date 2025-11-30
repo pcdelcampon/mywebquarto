@@ -74,24 +74,24 @@ Workshops and courses in R/Python, risk analysis, and data literacy for teams, u
 
 ## Quick stack
 
-- Statistician
-- Data Scientist
-- Big Data
-- Data Strategy
-- Sample Design
-- Index
-- Impact Investment
-- Python
-- R
-- SPSS
-- Jamovi
-- QGIS
-- SQL & NoSQL
-- APIs
-- BI & Analytics
-- Power BI
-- Data Studio
-- Positron
+::: {.grid .gap-3 .mt-3}
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+**Roles**  
+Statistician, Data Scientist, Data Strategy, Impact Investment
+:::
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+**Metodos**  
+Sample Design, Index building, Predictive/Risk models, APIs and data products
+:::
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+**Herramientas**  
+Python, R, SQL/NoSQL, SPSS, Jamovi, Power BI, Data Studio, Positron
+:::
+::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
+**Geo & Big Data**  
+Big Data stacks, QGIS, BI and Analytics, Monitoring and explainability
+:::
+:::
 
 ## How I work
 
