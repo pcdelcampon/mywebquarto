@@ -97,7 +97,7 @@ Aquí hay una selección de proyectos en los que he trabajado. Cada uno demuestr
 
 <div class="portfolio-grid">
 
-  <!-- Proyecto 1: Análisis de Siniestralidad Vial -->
+  <!-- Proyecto 1: enlace interno -->
   <a href="projects/analisis-siniestralidad.qmd" class="card portfolio-card">
     <div class="card-img-top-container">
       <img src="https://images.unsplash.com/photo-1576016980230-43a774195209?q=80&w=1920&auto=format&fit=crop" class="card-img-top" alt="Imagen de tráfico en una ciudad">
@@ -114,8 +114,8 @@ Aquí hay una selección de proyectos en los que he trabajado. Cada uno demuestr
     </div>
   </a>
 
-  <!-- Proyecto 2: Observatorio de Salud -->
-  <a href="projects/observatorio-salud.qmd" class="card portfolio-card">
+  <!-- Proyecto 2: enlace externo -->
+  <a href="https://tu-enlace-externo.com/observatorio-salud" class="card portfolio-card" target="_blank" rel="noopener">
     <div class="card-img-top-container">
       <img src="https://images.unsplash.com/photo-1584363325391-d2c1675313e2?q=80&w=1920&auto=format&fit=crop" class="card-img-top" alt="Visualización de datos de salud">
     </div>
