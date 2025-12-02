@@ -96,17 +96,17 @@ Aquí hay una selección de proyectos en los que he trabajado. Cada uno demuestr
 <div class="portfolio-grid">
 
   <!-- Proyecto 1: enlace interno -->
-  <a href="projects/analisis-siniestralidad.qmd" class="card portfolio-card">
+  <a href="projects/cluster-caracterizacion.qmd" class="card portfolio-card">
     <div class="card-img-top-container">
-      <img src="https://images.unsplash.com/photo-1576016980230-43a774195209?q=80&w=1920&auto=format&fit=crop" class="card-img-top" alt="Imagen de tráfico en una ciudad">
+      <img src="assets/images/ClusterCarac_IA001.png" class="card-img-top" alt="Gráfico de clusters y clasificaciones">
     </div>
     <div class="card-body">
-      <h5 class="card-title">Análisis Predictivo de Siniestralidad Vial</h5>
-      <p class="card-text">Desarrollo de modelos predictivos para identificar zonas de alta accidentalidad en Bogotá, utilizando datos de la Secretaría de Movilidad.</p>
+      <h5 class="card-title">Caracterizando clusters y clasificaciones</h5>
+      <p class="card-text">Vista preliminar del gráfico ClusterCarac y organización de categorías para el primer proyecto.</p>
       <div class="portfolio-tags">
         <span class="portfolio-tag">Python</span>
-        <span class="portfolio-tag">Políticas Públicas</span>
-        <span class="portfolio-tag">Geoanálisis</span>
+        <span class="portfolio-tag">EDA</span>
+        <span class="portfolio-tag">Visualización</span>
       </div>
       <div class="btn btn-view-project">Ver Proyecto</div>
     </div>
