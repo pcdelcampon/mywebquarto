@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Data Worker"
-  description: "Data science + visualización con estilo."
+  description: "Data science and visualization with style."
   navbar:
     background: "#111827"
     foreground: "#F9FAFB"
