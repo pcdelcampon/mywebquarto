@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Characterizing Clusters and Classifications – Data Worker</title>
+<title>Bogota Road Safety Annual Reports – Data Worker</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -146,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Characterizing Clusters and Classifications</h1>
+<h1 class="title">Bogota Road Safety Annual Reports</h1>
 </div>
 
 
@@ -163,43 +163,35 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="../assets/images/ClusterCarac_IA001.png" class="img-fluid" width="500"></p>
-<p><strong>ClusterCarac is an R package that helps you understand what makes each group in your data unique.</strong> Whether your groups come from a clustering algorithm (k-means, hierarchical clustering…) or from predefined categories (customer segments, regions, age groups, user types), ClusterCarac reveals the key traits that distinguish one group from another.</p>
-<p><a href="https://github.com/pcdelcampon/ClusterCarac">🔗</a> GitHub repository:<a href="https://github.com/pcdelcampon/ClusterCarac"><strong>https://github.com/pcdelcampon/ClusterCarac</strong></a></p>
-<section id="turn-raw-data-into-clear-interpretable-group-profiles" class="level3">
-<h3 class="anchored" data-anchor-id="turn-raw-data-into-clear-interpretable-group-profiles">🧠 <strong>Turn raw data into clear, interpretable group profiles</strong></h3>
-<p>Instead of manually inspecting cross-tabs or reading long tables, ClusterCarac answers questions like:</p>
-<blockquote class="blockquote">
-<p><em>“What characterizes Group A, B and C?”</em><br>
-<em>“How do high-churn customers differ from low-churn ones?”</em><br>
-<em>“What traits truly distinguish this segment?”</em></p>
-</blockquote>
-</section>
-<section id="useful-in-any-field-where-groups-appear-in-your-data" class="level3">
-<h3 class="anchored" data-anchor-id="useful-in-any-field-where-groups-appear-in-your-data">🌍 <strong>Useful in any field where groups appear in your data</strong></h3>
+<p><img src="https://images.unsplash.com/photo-1489515217757-5fd1be406fef?q=80&amp;w=1600&amp;auto=format&amp;fit=crop.png" class="img-fluid" width="500"></p>
+<p><strong>Analisis anual de la siniestralidad vial en Bogota para sustentar decisiones de politica publica y priorizacion de intervenciones seguras.</strong> Los reportes consolidan datos de accidentes, victimas y factores de riesgo para producir narrativas claras y accionables.</p>
+<section id="resumen-del-proyecto" class="level3">
+<h3 class="anchored" data-anchor-id="resumen-del-proyecto">Resumen del proyecto</h3>
 <ul>
-<li><p>Customer and market segmentation</p></li>
-<li><p>Social and demographic research</p></li>
-<li><p>Public health and education projects</p></li>
-<li><p>User and product analytics</p></li>
-<li><p>Any dataset with categories or segments that need explanation</p></li>
+<li>Integracion de bases de siniestros, georreferenciacion por localidad y tipologia de via.</li>
+<li>Tendencias anuales y desagregaciones por actor vial, gravedad y franja horaria.</li>
+<li>Mapas de calor y tablas ejecutivas para lideres de movilidad y seguridad vial.</li>
 </ul>
 </section>
-<section id="in-one-sentence" class="level3">
-<h3 class="anchored" data-anchor-id="in-one-sentence">🧩 <strong>In one sentence</strong></h3>
-<blockquote class="blockquote">
-<p><strong>ClusterCarac turns groups into stories—showing what defines them, what sets them apart, and what truly matters.</strong></p>
-</blockquote>
+<section id="metodologia" class="level3">
+<h3 class="anchored" data-anchor-id="metodologia">Metodologia</h3>
+<ul>
+<li>Limpieza y normalizacion de fuentes oficiales (SIOVT/BO, Policia de Transito).</li>
+<li>Modelos de tendencia y comparacion interanual con intervalos de confianza.</li>
+<li>Deteccion de puntos criticos y priorizacion de intervenciones con reglas reproducibles.</li>
+</ul>
 </section>
-<section id="why-i-created-clustercarac" class="level3">
-<h3 class="anchored" data-anchor-id="why-i-created-clustercarac">⭐ <strong>Why I created ClusterCarac</strong></h3>
-<p>ClusterCarac exists because I wanted to bring back —in a modern, focused way— the spirit of the characterization algorithms originally implemented in <a href="https://cran.r-project.org/web/packages/FactoClass/index.html">FactoClass</a>.</p>
-<p>FactoClass, developed at the Universidad Nacional de Colombia with Professor <a href="https://www.linkedin.com/in/campo-el%C3%ADas-pardo-5ab19435/">Campo Elías Pardo</a> and other collaborators, offered powerful tools for describing groups produced by clustering procedures. Over the years, many users repeatedly asked how to interpret or extract the characterization results from that package. These questions revealed something important:</p>
-<blockquote class="blockquote">
-<p><strong>People needed a clearer, more direct, and more accessible way to understand what defines each group in their data.</strong></p>
-</blockquote>
-<p>ClusterCarac is my response to that need.</p>
-<p>It is not a replacement for FactoClass, but rather a <strong>retro-inspired return 🕹️👾⭐</strong> to its core ideas — a simplified, refined, and more user-friendly tool dedicated entirely to group characterization.</p>
+<section id="entregables-clave" class="level3">
+<h3 class="anchored" data-anchor-id="entregables-clave">Entregables clave</h3>
+<ul>
+<li>Informe anual listo para publicacion con visualizaciones en Quarto.</li>
+<li>Dashboards interactivos para seguimiento mensual y evidencia rapida.</li>
+<li>Indicadores replicables (tasa por 100k habitantes, KSI, severidad) documentados.</li>
+</ul>
+</section>
+<section id="tecnologias" class="level3">
+<h3 class="anchored" data-anchor-id="tecnologias">Tecnologias</h3>
+<p>R, Quarto, Power BI/Mapas, Git para control de versiones.</p>
 
 
 </section>
