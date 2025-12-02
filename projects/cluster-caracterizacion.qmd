@@ -7,7 +7,7 @@ page-layout: full
 
 **ClusterCarac is an R package that helps you understand what makes each group in your data unique.** Whether your groups come from a clustering algorithm (k-means, hierarchical clustering…) or from predefined categories (customer segments, regions, age groups, user types), ClusterCarac reveals the key traits that distinguish one group from another.
 
-🔗 GitHub repository: **https://github.com/pcdelcampon/ClusterCarac**
+[🔗](https://github.com/pcdelcampon/ClusterCarac) GitHub repository:[**https://github.com/pcdelcampon/ClusterCarac**](https://github.com/pcdelcampon/ClusterCarac)
 
 ### 🧠 **Turn raw data into clear, interpretable group profiles**
 

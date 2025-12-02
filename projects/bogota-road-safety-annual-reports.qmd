@@ -1,0 +1,26 @@
+---
+title: "Bogota Road Safety Annual Reports"
+page-layout: full
+---
+
+![](https://images.unsplash.com/photo-1489515217757-5fd1be406fef?q=80&w=1600&auto=format&fit=crop){width="500"}
+
+**Analisis anual de la siniestralidad vial en Bogota para sustentar decisiones de politica publica y priorizacion de intervenciones seguras.** Los reportes consolidan datos de accidentes, victimas y factores de riesgo para producir narrativas claras y accionables.
+
+### Resumen del proyecto
+- Integracion de bases de siniestros, georreferenciacion por localidad y tipologia de via.
+- Tendencias anuales y desagregaciones por actor vial, gravedad y franja horaria.
+- Mapas de calor y tablas ejecutivas para lideres de movilidad y seguridad vial.
+
+### Metodologia
+- Limpieza y normalizacion de fuentes oficiales (SIOVT/BO, Policia de Transito).
+- Modelos de tendencia y comparacion interanual con intervalos de confianza.
+- Deteccion de puntos criticos y priorizacion de intervenciones con reglas reproducibles.
+
+### Entregables clave
+- Informe anual listo para publicacion con visualizaciones en Quarto.
+- Dashboards interactivos para seguimiento mensual y evidencia rapida.
+- Indicadores replicables (tasa por 100k habitantes, KSI, severidad) documentados.
+
+### Tecnologias
+R, Quarto, Power BI/Mapas, Git para control de versiones.
