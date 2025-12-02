@@ -3,24 +3,24 @@ title: "Bogota Road Safety Annual Reports"
 page-layout: full
 ---
 
-![](https://images.unsplash.com/photo-1489515217757-5fd1be406fef?q=80&w=1600&auto=format&fit=crop){width="500"}
+![](https://acnews.blob.core.windows.net/imgnews/large/NAZ_2672d639493347f5808142cf06840f4e.jpg){width="600"}
 
-**Analisis anual de la siniestralidad vial en Bogota para sustentar decisiones de politica publica y priorizacion de intervenciones seguras.** Los reportes consolidan datos de accidentes, victimas y factores de riesgo para producir narrativas claras y accionables.
+**Annual analysis of road crashes in Bogota to support public policy decisions and prioritize safer interventions.** The reports bring together crash data, victims, and risk factors to produce clear, actionable narratives.
 
-### Resumen del proyecto
-- Integracion de bases de siniestros, georreferenciacion por localidad y tipologia de via.
-- Tendencias anuales y desagregaciones por actor vial, gravedad y franja horaria.
-- Mapas de calor y tablas ejecutivas para lideres de movilidad y seguridad vial.
+### Project summary
+- Integrating crash datasets with geocoding by district and road type.
+- Year-over-year trends broken down by road user, severity, and time of day.
+- Heatmaps and executive tables for mobility and road safety leaders.
 
-### Metodologia
-- Limpieza y normalizacion de fuentes oficiales (SIOVT/BO, Policia de Transito).
-- Modelos de tendencia y comparacion interanual con intervalos de confianza.
-- Deteccion de puntos criticos y priorizacion de intervenciones con reglas reproducibles.
+### Methodology
+- Cleaning and standardizing official sources (SIOVT/BO, Traffic Police).
+- Trend models and interannual comparisons with confidence intervals.
+- Hotspot detection and intervention prioritization using reproducible rules.
 
-### Entregables clave
-- Informe anual listo para publicacion con visualizaciones en Quarto.
-- Dashboards interactivos para seguimiento mensual y evidencia rapida.
-- Indicadores replicables (tasa por 100k habitantes, KSI, severidad) documentados.
+### Key deliverables
+- Annual report ready for publication with Quarto visualizations.
+- Interactive dashboards for monthly monitoring and quick evidence sharing.
+- Reproducible indicators (rate per 100k inhabitants, KSI, severity) with documentation.
 
-### Tecnologias
-R, Quarto, Power BI/Mapas, Git para control de versiones.
+### Technologies
+R, Quarto, Power BI/Maps, Git for version control.
