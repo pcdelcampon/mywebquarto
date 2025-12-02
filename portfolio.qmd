@@ -93,12 +93,13 @@ page-layout: full
 
 Aquí hay una selección de proyectos en los que he trabajado. Cada uno demuestra diferentes habilidades en análisis, modelado y visualización de datos.
 
+```{=html}
 <div class="portfolio-grid">
 
   <!-- Proyecto 1: enlace interno -->
   <a href="projects/cluster-caracterizacion.qmd" class="card portfolio-card">
     <div class="card-img-top-container">
-      <img src="assets/images/ClusterCarac_IA001.png" class="card-img-top" alt="Gráfico de clusters y clasificaciones">
+      <img src="/assets/images/ClusterCarac_IA001.png" class="card-img-top" alt="Gráfico de clusters y clasificaciones">
     </div>
     <div class="card-body">
       <h5 class="card-title">Caracterizando clusters y clasificaciones</h5>
@@ -132,3 +133,4 @@ Aquí hay una selección de proyectos en los que he trabajado. Cada uno demuestr
   <!-- Puedes añadir más tarjetas de proyectos aquí -->
 
 </div>
+```
