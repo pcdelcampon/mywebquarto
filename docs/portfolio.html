@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Under Construction – Data Worker</title>
+<title>Portfolio – Data Worker</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -137,21 +137,21 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Under Construction</h1>
+<h1 class="title">Portfolio</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -163,16 +163,131 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="section" class="level1" style="font-size: 100px; margin: 0;">
-<h1 style="font-size: 100px; margin: 0;">🚧</h1>
-<section id="this-section-is-under-construction" class="level2">
-<h2 class="anchored" data-anchor-id="this-section-is-under-construction">This section is under construction</h2>
-<p>I am working hard to bring you something great!</p>
-<p><strong>Coming Soon</strong> ✨</p>
-</section>
-</section>
+<p>title: “Portfolio” page-layout: full —</p>
+<style>
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.card.portfolio-card {
+  border: 1px solid var(--bs-border-color-translucent);
+  border-radius: 0.5rem;
+  transition: all 0.3s ease-in-out;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card.portfolio-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  border-color: var(--bs-primary);
+}
+
+.card-img-top-container {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.card-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  flex-grow: 1;
+  font-size: 0.9rem;
+  color: var(--bs-body-secondary-color);
+}
+
+.portfolio-tags {
+  margin: 1rem 0;
+}
+
+.portfolio-tag {
+  display: inline-block;
+  background-color: var(--bs-light);
+  color: var(--bs-dark);
+  padding: 0.25rem 0.6rem;
+  border-radius: 1rem;
+  font-size: 0.75rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.btn-view-project {
+  margin-top: auto;
+  width: 100%;
+  background-color: var(--bs-primary);
+  color: white;
+  border: none;
+}
+
+.btn-view-project:hover {
+  background-color: var(--bs-dark);
+  color: white;
+}
+</style>
+<section id="mis-proyectos" class="level2">
+<h2 class="anchored" data-anchor-id="mis-proyectos">Mis Proyectos</h2>
+<p>Aquí hay una selección de proyectos en los que he trabajado. Cada uno demuestra diferentes habilidades en análisis, modelado y visualización de datos.</p>
+<div class="portfolio-grid">
+<!-- Proyecto 1: Análisis de Siniestralidad Vial --> <a href="projects/analisis-siniestralidad.qmd" class="card portfolio-card">
+</a><div class="card-img-top-container"><a href="projects/analisis-siniestralidad.qmd" class="card portfolio-card">
+<pre><code>  &lt;img src="https://images.unsplash.com/photo-1576016980230-43a774195209?q=80&amp;w=1920&amp;auto=format&amp;fit=crop" class="card-img-top" alt="Imagen de tráfico en una ciudad"&gt;
+&lt;/div&gt;
+&lt;div class="card-body"&gt;
+  &lt;h5 class="card-title"&gt;Análisis Predictivo de Siniestralidad Vial&lt;/h5&gt;
+  &lt;p class="card-text"&gt;Desarrollo de modelos predictivos para identificar zonas de alta accidentalidad en Bogotá, utilizando datos de la Secretaría de Movilidad.&lt;/p&gt;
+  &lt;div class="portfolio-tags"&gt;
+    &lt;span class="portfolio-tag"&gt;Python&lt;/span&gt;
+    &lt;span class="portfolio-tag"&gt;Políticas Públicas&lt;/span&gt;
+    &lt;span class="portfolio-tag"&gt;Geoanálisis&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class="btn btn-view-project"&gt;Ver Proyecto&lt;/div&gt;
+&lt;/div&gt;</code></pre>
+</a><p><a href="projects/analisis-siniestralidad.qmd" class="card portfolio-card"></a></p>
+<!-- Proyecto 2: Observatorio de Salud --> <a href="projects/observatorio-salud.qmd" class="card portfolio-card">
+</a><div class="card-img-top-container"><a href="projects/observatorio-salud.qmd" class="card portfolio-card">
+<pre><code>  &lt;img src="https://images.unsplash.com/photo-1584363325391-d2c1675313e2?q=80&amp;w=1920&amp;auto=format&amp;fit=crop" class="card-img-top" alt="Visualización de datos de salud"&gt;
+&lt;/div&gt;
+&lt;div class="card-body"&gt;
+  &lt;h5 class="card-title"&gt;Modelado para el Observatorio de Salud&lt;/h5&gt;
+  &lt;p class="card-text"&gt;Creación de modelos computacionales y simulaciones para el Instituto Nacional de Salud durante la emergencia del COVID-19.&lt;/p&gt;
+  &lt;div class="portfolio-tags"&gt;
+    &lt;span class="portfolio-tag"&gt;R&lt;/span&gt;
+    &lt;span class="portfolio-tag"&gt;Salud Pública&lt;/span&gt;
+    &lt;span class="portfolio-tag"&gt;Modelado&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class="btn btn-view-project"&gt;Ver Proyecto&lt;/div&gt;
+&lt;/div&gt;</code></pre>
+</a><p><a href="projects/observatorio-salud.qmd" class="card portfolio-card"></a></p>
+<p><!-- Puedes añadir más tarjetas de proyectos aquí --></p>
+</div>
 
 
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

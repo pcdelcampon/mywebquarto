@@ -2,16 +2,16 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "Under Construction",
+    "title": "Portfolio",
     "section": "",
-    "text": "I am working hard to bring you something great!\nComing Soon ✨"
+    "text": "title: “Portfolio” page-layout: full —"
   },
   {
-    "objectID": "portfolio.html#this-section-is-under-construction",
-    "href": "portfolio.html#this-section-is-under-construction",
-    "title": "Under Construction",
-    "section": "",
-    "text": "I am working hard to bring you something great!\nComing Soon ✨"
+    "objectID": "portfolio.html#mis-proyectos",
+    "href": "portfolio.html#mis-proyectos",
+    "title": "Portfolio",
+    "section": "Mis Proyectos",
+    "text": "Mis Proyectos\nAquí hay una selección de proyectos en los que he trabajado. Cada uno demuestra diferentes habilidades en análisis, modelado y visualización de datos.\n\n \n\n  &lt;img src=\"https://images.unsplash.com/photo-1576016980230-43a774195209?q=80&w=1920&auto=format&fit=crop\" class=\"card-img-top\" alt=\"Imagen de tráfico en una ciudad\"&gt;\n&lt;/div&gt;\n&lt;div class=\"card-body\"&gt;\n  &lt;h5 class=\"card-title\"&gt;Análisis Predictivo de Siniestralidad Vial&lt;/h5&gt;\n  &lt;p class=\"card-text\"&gt;Desarrollo de modelos predictivos para identificar zonas de alta accidentalidad en Bogotá, utilizando datos de la Secretaría de Movilidad.&lt;/p&gt;\n  &lt;div class=\"portfolio-tags\"&gt;\n    &lt;span class=\"portfolio-tag\"&gt;Python&lt;/span&gt;\n    &lt;span class=\"portfolio-tag\"&gt;Políticas Públicas&lt;/span&gt;\n    &lt;span class=\"portfolio-tag\"&gt;Geoanálisis&lt;/span&gt;\n  &lt;/div&gt;\n  &lt;div class=\"btn btn-view-project\"&gt;Ver Proyecto&lt;/div&gt;\n&lt;/div&gt;\n\n \n\n  &lt;img src=\"https://images.unsplash.com/photo-1584363325391-d2c1675313e2?q=80&w=1920&auto=format&fit=crop\" class=\"card-img-top\" alt=\"Visualización de datos de salud\"&gt;\n&lt;/div&gt;\n&lt;div class=\"card-body\"&gt;\n  &lt;h5 class=\"card-title\"&gt;Modelado para el Observatorio de Salud&lt;/h5&gt;\n  &lt;p class=\"card-text\"&gt;Creación de modelos computacionales y simulaciones para el Instituto Nacional de Salud durante la emergencia del COVID-19.&lt;/p&gt;\n  &lt;div class=\"portfolio-tags\"&gt;\n    &lt;span class=\"portfolio-tag\"&gt;R&lt;/span&gt;\n    &lt;span class=\"portfolio-tag\"&gt;Salud Pública&lt;/span&gt;\n    &lt;span class=\"portfolio-tag\"&gt;Modelado&lt;/span&gt;\n  &lt;/div&gt;\n  &lt;div class=\"btn btn-view-project\"&gt;Ver Proyecto&lt;/div&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "experience.html",
@@ -67,7 +67,7 @@
     "href": "index.html#quick-stack",
     "title": "Data Worker",
     "section": "Quick stack",
-    "text": "Quick stack\n\nStatistician\nData Scientist\nBig Data\nData Strategy\nSample Design\nIndex\nImpact Investment\nPython\nR\nSPSS\nJamovi\nQGIS\nSQL & NoSQL\nAPIs\nBI & Analytics\nPower BI\nData Studio\nPositron"
+    "text": "Quick stack\n\n\nRoles\nStatistician, Data Scientist, Data Strategy, Impact Investment\n\n\nMetodos\nSample Design, Index building, Predictive/Risk models, APIs and data products\n\n\nHerramientas\nPython, R, SQL/NoSQL, SPSS, Jamovi, Power BI, Data Studio, Positron\n\n\nGeo & Big Data\nBig Data stacks, QGIS, BI and Analytics, Monitoring and explainability"
   },
   {
     "objectID": "index.html#how-i-work",

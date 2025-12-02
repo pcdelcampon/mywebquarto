@@ -1,16 +1,136 @@
 
 ---
-title: "Under Construction"
+---
+title: "Portfolio"
+page-layout: full
 ---
 
-::: {style="text-align: center; padding: 100px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white;"}
+```{=html}
+<style>
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
 
-# 🚧 {style="font-size: 100px; margin: 0;"}
+.card.portfolio-card {
+  border: 1px solid var(--bs-border-color-translucent);
+  border-radius: 0.5rem;
+  transition: all 0.3s ease-in-out;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
 
-## This section is under construction
+.card.portfolio-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  border-color: var(--bs-primary);
+}
 
-I am working hard to bring you something great!
+.card-img-top-container {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
 
-**Coming Soon** ✨
+.card-img-top {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 
-:::
+.card-body {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.card-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  flex-grow: 1;
+  font-size: 0.9rem;
+  color: var(--bs-body-secondary-color);
+}
+
+.portfolio-tags {
+  margin: 1rem 0;
+}
+
+.portfolio-tag {
+  display: inline-block;
+  background-color: var(--bs-light);
+  color: var(--bs-dark);
+  padding: 0.25rem 0.6rem;
+  border-radius: 1rem;
+  font-size: 0.75rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.btn-view-project {
+  margin-top: auto;
+  width: 100%;
+  background-color: var(--bs-primary);
+  color: white;
+  border: none;
+}
+
+.btn-view-project:hover {
+  background-color: var(--bs-dark);
+  color: white;
+}
+</style>
+```
+
+## Mis Proyectos
+
+Aquí hay una selección de proyectos en los que he trabajado. Cada uno demuestra diferentes habilidades en análisis, modelado y visualización de datos.
+
+<div class="portfolio-grid">
+
+  <!-- Proyecto 1: Análisis de Siniestralidad Vial -->
+  <a href="projects/analisis-siniestralidad.qmd" class="card portfolio-card">
+    <div class="card-img-top-container">
+      <img src="https://images.unsplash.com/photo-1576016980230-43a774195209?q=80&w=1920&auto=format&fit=crop" class="card-img-top" alt="Imagen de tráfico en una ciudad">
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">Análisis Predictivo de Siniestralidad Vial</h5>
+      <p class="card-text">Desarrollo de modelos predictivos para identificar zonas de alta accidentalidad en Bogotá, utilizando datos de la Secretaría de Movilidad.</p>
+      <div class="portfolio-tags">
+        <span class="portfolio-tag">Python</span>
+        <span class="portfolio-tag">Políticas Públicas</span>
+        <span class="portfolio-tag">Geoanálisis</span>
+      </div>
+      <div class="btn btn-view-project">Ver Proyecto</div>
+    </div>
+  </a>
+
+  <!-- Proyecto 2: Observatorio de Salud -->
+  <a href="projects/observatorio-salud.qmd" class="card portfolio-card">
+    <div class="card-img-top-container">
+      <img src="https://images.unsplash.com/photo-1584363325391-d2c1675313e2?q=80&w=1920&auto=format&fit=crop" class="card-img-top" alt="Visualización de datos de salud">
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">Modelado para el Observatorio de Salud</h5>
+      <p class="card-text">Creación de modelos computacionales y simulaciones para el Instituto Nacional de Salud durante la emergencia del COVID-19.</p>
+      <div class="portfolio-tags">
+        <span class="portfolio-tag">R</span>
+        <span class="portfolio-tag">Salud Pública</span>
+        <span class="portfolio-tag">Modelado</span>
+      </div>
+      <div class="btn btn-view-project">Ver Proyecto</div>
+    </div>
+  </a>
+
+  <!-- Puedes añadir más tarjetas de proyectos aquí -->
+
+</div>
