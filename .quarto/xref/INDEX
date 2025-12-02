@@ -19,5 +19,8 @@
   },
   "experience.qmd": {
     "experience.html": "4cbc7df3"
+  },
+  "projects/cluster-caracterizacion.qmd": {
+    "cluster-caracterizacion.html": "dd595fac"
   }
 }

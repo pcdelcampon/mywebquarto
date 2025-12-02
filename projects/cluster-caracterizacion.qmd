@@ -1,0 +1,12 @@
+---
+title: "Caracterizando clusters y clasificaciones"
+page-layout: full
+---
+
+## Gráfico principal
+
+![](../assets/images/ClusterCarac_IA001.png)
+
+## Descripción rápida
+
+Página inicial del proyecto; se añadirá análisis y resultados en siguientes iteraciones.
