@@ -105,12 +105,12 @@ Here is a selection of projects I've worked on. Each one demonstrates different 
       <h5 class="card-title">Characterizing Clusters and Classifications</h5>
       <p class="card-text">Preview of the ClusterCarac chart and category setup for the first project.</p>
       <div class="portfolio-tags">
-        <span class="portfolio-tag">R</span>
-        <span class="portfolio-tag">EDA</span>
-        <span class="portfolio-tag">Characterization</span>
-        <span class="portfolio-tag">FactoClass</span>
         <span class="portfolio-tag">Social studies</span>
         <span class="portfolio-tag">Market research</span>
+        <span class="portfolio-tag">R</span>
+        <span class="portfolio-tag">FactoClass</span>
+        <span class="portfolio-tag">EDA</span>
+        <span class="portfolio-tag">Characterization</span>
       </div>
       <div class="btn btn-view-project">View Project</div>
     </div>
