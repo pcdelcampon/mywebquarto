@@ -5,6 +5,18 @@ format:
     page-layout: full
 ---
 
+```{=html}
+<style>
+body {
+  background-image: url('assets/Finance-Chart-Statistics-Backgrounds.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+</style>
+```
+
 ::: {.grid .gap-4 .mb-5}
 ::: {.g-col-12 .g-col-md-7}
 
@@ -13,7 +25,7 @@ format:
 Data Worker who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling. I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.
 
 [View portfolio](portfolio.qmd){.btn style="background-color:#F8766D; color:white; border:none;"}
-[Let's talk](contact.qmd){.btn style="background-color:#f9fafb; color:#111; border:none;"}  
+[Let's talk](contact.qmd){.btn style="background-color:#10B981; color:white; border:none;"}  
 
 <div style="display: flex; justify-content: left; gap: 0.5rem; margin-bottom: 0.01rem; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/pcdelcampon" target="_blank" class="btn btn-sm" style="background-color:#0A66C2; color:white; border:none;">LinkedIn</a>
