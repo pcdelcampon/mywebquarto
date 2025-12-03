@@ -10,4 +10,6 @@ page-layout: full
 - LinkedIn: [linkedin.com/in/pcdelcampon](https://www.linkedin.com/in/pcdelcampon)
 
 If you prefer, drop a short note about your project, context, and desired outcome. I'll reply from my personal inbox.
+
+[Download CV](assets/CV.pdf){.btn style="background-color:#00BFC4; color:white; border:none; margin-top:0.75rem;"}
 :::
