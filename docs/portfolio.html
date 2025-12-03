@@ -172,27 +172,29 @@ ul.task-list li input[type="checkbox"] {
 }
 
 .card.portfolio-card {
-  border: 1px solid var(--bs-border-color-translucent);
-  border-radius: 0.5rem;
+  border: 1px solid #1f2937;
+  border-radius: 0.75rem;
+  background: linear-gradient(145deg, rgba(15, 23, 42, 0.96), rgba(11, 17, 32, 0.96));
   transition: all 0.3s ease-in-out;
   text-decoration: none;
-  color: inherit;
+  color: #e5e7eb;
   display: flex;
   flex-direction: column;
   height: 100%;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
 }
 
 .card.portfolio-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
-  border-color: var(--bs-primary);
+  box-shadow: 0 18px 38px rgba(0, 0, 0, 0.45);
+  border-color: #10B981;
 }
 
 .card-img-top-container {
   aspect-ratio: 16 / 9;
   overflow: hidden;
-  border-top-left-radius: 0.5rem;
-  border-top-right-radius: 0.5rem;
+  border-top-left-radius: 0.75rem;
+  border-top-right-radius: 0.75rem;
 }
 
 .card-img-top {
@@ -210,12 +212,13 @@ ul.task-list li input[type="checkbox"] {
 .card-title {
   font-weight: 600;
   margin-bottom: 0.5rem;
+  color: #e5e7eb;
 }
 
 .card-text {
   flex-grow: 1;
   font-size: 0.9rem;
-  color: var(--bs-body-secondary-color);
+  color: #cbd5e1;
 }
 
 .portfolio-tags {
@@ -224,26 +227,29 @@ ul.task-list li input[type="checkbox"] {
 
 .portfolio-tag {
   display: inline-block;
-  background-color: var(--bs-light);
-  color: var(--bs-dark);
-  padding: 0.25rem 0.6rem;
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #e5e7eb;
+  padding: 0.35rem 0.7rem;
   border-radius: 1rem;
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .btn-view-project {
   margin-top: auto;
   width: 100%;
-  background-color: var(--bs-primary);
-  color: white;
+  background-color: #10B981;
+  color: #0b1021;
   border: none;
+  font-weight: 700;
+  letter-spacing: 0.01em;
 }
 
 .btn-view-project:hover {
-  background-color: var(--bs-dark);
-  color: white;
+  background-color: #0fb17a;
+  color: #0b1021;
 }
 </style>
 <section id="projects" class="level2">
