@@ -8,7 +8,7 @@ format:
 ```{=html}
 <style>
 body {
-  background-image: url('assets/Finance-Chart-Statistics-Backgrounds.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('assets/Finance-Chart-Statistics-Backgrounds.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
