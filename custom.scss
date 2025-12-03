@@ -1,35 +1,23 @@
 /*-- scss:rules --*/
 
-/* Subtle background image overlay */
+/* Global dark theme background and typography */
 body {
   position: relative;
   min-height: 100vh;
-  background-color: #f9fafb;
+  background: radial-gradient(circle at 20% 20%, rgba(16, 185, 129, 0.08), transparent 32%),
+              radial-gradient(circle at 80% 10%, rgba(248, 118, 109, 0.08), transparent 32%),
+              linear-gradient(145deg, #0b1021 0%, #0f172a 45%, #0b1021 100%);
+  color: #e5e7eb;
 }
 
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  background:
-    linear-gradient(115deg, rgba(16, 185, 129, 0.06), rgba(59, 130, 246, 0.05)),
-    url("assets/d5cd0d96-ee26-4269-8daa-b3e52e9452ae.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  opacity: 0.06; /* keep it barely visible */
-  pointer-events: none;
-  z-index: -1;
-}
-
-/* Keep main content above the overlay */
+/* Keep main content above any effects */
 .quarto-container, .navbar, footer, main {
   position: relative;
   z-index: 1;
 }
 
 .navbar {
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
 }
 
 /* Transparent footer bar */
@@ -52,11 +40,11 @@ body::before {
 }
 
 .quick-stack li {
-  background: #ffffff;
-  border: 1px solid #e5e7eb;
+  background: #111827;
+  border: 1px solid #1f2937;
   border-radius: 10px;
   padding: 10px 12px;
   font-weight: 600;
-  color: #111827;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  color: #e5e7eb;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
 }

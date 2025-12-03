@@ -5,27 +5,6 @@ format:
     page-layout: full
 ---
 
-```{=html}
-<style>
-body {
-  background-color: #0b1120;
-  color: #f8fafc;
-}
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82)), url('assets/Finance-Chart-Statistics-Backgrounds.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  filter: blur(1px);
-  z-index: -1;
-}
-</style>
-```
-
 ::: {.grid .gap-4 .mb-5}
 ::: {.g-col-12 .g-col-md-7}
 
