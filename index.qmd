@@ -8,11 +8,20 @@ format:
 ```{=html}
 <style>
 body {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('assets/Finance-Chart-Statistics-Backgrounds.jpg');
+  background-color: #0b1120;
+  color: #f8fafc;
+}
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.82)), url('assets/Finance-Chart-Statistics-Backgrounds.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+  filter: blur(1px);
+  z-index: -1;
 }
 </style>
 ```
