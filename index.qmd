@@ -13,16 +13,13 @@ format:
 Data Worker who transforms complex data into clear, actionable insights through visualization, modeling, and evidence-based storytelling. I am passionate about using data to understand people, systems, and real-world challenges. My goal is to make insights accessible, meaningful, and useful for better decision-making.
 
 [View portfolio](portfolio.qmd){.btn style="background-color:#F8766D; color:white; border:none;"}
-[Let's talk](contact.qmd){.btn style="background-color:#E76BF3; color:white; border:none;"}  
+[Let's talk](contact.qmd){.btn style="background-color:#f9fafb; color:#111; border:none;"}  
 
 <div style="display: flex; justify-content: left; gap: 0.5rem; margin-bottom: 0.01rem; flex-wrap: wrap;">
-<p><!-- LinkedIn --> <a href="https://www.linkedin.com/in/pcdelcampon" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" alt="LinkedIn"> </a></p>
-<!-- GitHub (ya tienes) -->
-<p><a href="https://github.com/pcdelcampon" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32" alt="GitHub"> </a></p>
-<!-- DataCamp -->
-<p><a href="https://www.datacamp.com/profile/pcdelcampon" target="_blank"> <img src="images/datacamp.jpg" width="32" alt="DataCamp"> </a></p>
-<!-- Platzi -->
-<p><a href="https://platzi.com/p/pcdelcampon1983/" target="_blank"> <img src="images/icon_platzi.jpeg" width="32" alt="Platzi"> </a></p>
+  <a href="https://www.linkedin.com/in/pcdelcampon" target="_blank" class="btn btn-sm" style="background-color:#0A66C2; color:white; border:none;">LinkedIn</a>
+  <a href="https://github.com/pcdelcampon" target="_blank" class="btn btn-sm" style="background-color:#24292e; color:white; border:none;">GitHub</a>
+  <a href="https://www.datacamp.com/profile/pcdelcampon" target="_blank" class="btn btn-sm" style="background-color:#03ef62; color:#111; border:none;">DataCamp</a>
+  <a href="https://platzi.com/p/pcdelcampon1983/" target="_blank" class="btn btn-sm" style="background-color:#121f3d; color:white; border:none;">Platzi</a>
 </div>
 
 ::: {.grid .gap-3 .mt-4}
@@ -35,8 +32,8 @@ Years in data
 Projects delivered
 :::
 ::: {.g-col-12 .g-col-md-4}
-**-30%**  
-Reporting time
+**30%**  
+Faster reporting turnaround
 :::
 :::
 
@@ -79,7 +76,7 @@ Workshops and courses in R/Python, risk analysis, and data literacy for teams, u
 Statistician, Data Scientist, Data Strategy, Impact Investment
 :::
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
-**Metodos**  
+**Métodos**  
 Sample Design, Index building, Predictive/Risk models, APIs and data products
 :::
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
