@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Data Worker"
+  title: "Home"
   description: "Data science and visualization with style."
   navbar:
     background: "#111827"
@@ -17,7 +17,7 @@ website:
       - text: "DataViz"
         href: dataviz.qmd
       - text: "About Me"
-        href: index.qmd
+        href: about-me.qmd
       - text: "Contact"
         href: contact.qmd
     right:
