@@ -16,6 +16,8 @@ website:
         href: experience.qmd
       - text: "DataViz"
         href: dataviz.qmd
+      - text: "About Me"
+        href: index.qmd
       - text: "Contact"
         href: contact.qmd
     right:
