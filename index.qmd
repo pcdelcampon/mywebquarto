@@ -4,32 +4,21 @@ page-layout: full
 ---
 
 ::: {style="max-width: 1100px; margin: 0 auto; padding: 28px; background: linear-gradient(145deg, rgba(17,24,39,0.96), rgba(11,17,32,0.96)); border: 1px solid #1f2937; border-radius: 16px; box-shadow: 0 18px 40px rgba(0,0,0,0.35);"}
-## Pedro César Del Campo Neira — Data Worker
+## Hi, I’m Pedro C. Del Campo — Data Worker
 
-Conecto datos, negocio y políticas públicas para entregar insights accionables en movilidad, salud, fintech y sector público.
+Welcome to my site. Here you’ll find my selected projects, dataviz work, and experience. If you want to go deeper, you can check my LinkedIn, About Me, or reach out directly.
 
-[Ver portafolio](portfolio.qmd){.btn style="background-color:#10B981; color:#0b1021; border:none; font-weight:700; letter-spacing:0.01em; margin-right:0.5rem; margin-bottom:0.5rem;"} [Experiencia](experience.qmd){.btn style="background-color:#111827; color:#e5e7eb; border:1px solid #1f2937; margin-right:0.5rem; margin-bottom:0.5rem;"} [Contactar](contact.qmd){.btn style="background-color:#0A66C2; color:#e5e7eb; border:none; margin-right:0.5rem; margin-bottom:0.5rem;"} [Acerca de mí](about-me.qmd){.btn style="background-color:transparent; color:#e5e7eb; border:1px solid #334155; margin-right:0.5rem; margin-bottom:0.5rem;"} [LinkedIn](https://www.linkedin.com/in/pcdelcampon){.btn style="background-color:transparent; color:#e5e7eb; border:1px solid #334155; margin-bottom:0.5rem;" target="_blank" rel="noopener"}
+[View portfolio](portfolio.qmd){.btn style="background-color:#10B981; color:#0b1021; border:none; font-weight:700; letter-spacing:0.01em; margin-right:0.5rem; margin-bottom:0.5rem;"} [DataViz](dataviz.qmd){.btn style="background-color:#111827; color:#e5e7eb; border:1px solid #1f2937; margin-right:0.5rem; margin-bottom:0.5rem;"} [Experience](experience.qmd){.btn style="background-color:#111827; color:#e5e7eb; border:1px solid #1f2937; margin-right:0.5rem; margin-bottom:0.5rem;"} [LinkedIn](https://www.linkedin.com/in/pcdelcampon){.btn style="background-color:transparent; color:#e5e7eb; border:1px solid #334155; margin-right:0.5rem; margin-bottom:0.5rem;" target="_blank" rel="noopener"} [About me](about-me.qmd){.btn style="background-color:transparent; color:#e5e7eb; border:1px solid #334155; margin-right:0.5rem; margin-bottom:0.5rem;"} [Contact](contact.qmd){.btn style="background-color:#0A66C2; color:#e5e7eb; border:none; margin-bottom:0.5rem;"}
 :::
 
 ::: {.grid .gap-3 .mt-4}
-::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
-**Portafolio**  
-Proyectos seleccionados con código, visualizaciones y resultados.  
-[Ver proyectos](portfolio.qmd){style="color:#10B981;"}
+::: {.g-col-12 .g-col-md-6}
+**Certifications & learning**  
+[DataCamp](https://www.datacamp.com/profile/pcdelcampon){style="color:#10B981;" target="_blank" rel="noopener"} · [Platzi](https://platzi.com/p/pcdelcampon1983/){style="color:#10B981;" target="_blank" rel="noopener"}
 :::
-::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
-**Experiencia**  
-12+ años en movilidad, salud, fintech y sector público.  
-[Recorrer experiencia](experience.qmd){style="color:#10B981;"}
-:::
-::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
-**Acerca de mí**  
-Filosofía de trabajo, stack y forma de colaborar.  
-[Leer más](about-me.qmd){style="color:#10B981;"}
-:::
-::: {.g-col-12 .g-col-md-6 .g-col-lg-3}
-**Contacto**  
-Agenda una charla rápida o envía un correo.  
-[Abrir contacto](contact.qmd){style="color:#10B981;"}
+::: {.g-col-12 .g-col-md-6}
+**More about me**  
+Explore how I work and how to collaborate.  
+[Read About Me](about-me.qmd){style="color:#10B981;"}
 :::
 :::

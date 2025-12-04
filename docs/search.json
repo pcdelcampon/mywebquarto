@@ -95,14 +95,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Conecto datos, negocio y políticas públicas para entregar insights accionables en movilidad, salud, fintech y sector público.\nVer portafolio Experiencia Contactar Acerca de mí LinkedIn"
+    "text": "Welcome to my site. Here you’ll find my selected projects, dataviz work, and experience. If you want to go deeper, you can check my LinkedIn, About Me, or reach out directly.\nView portfolio DataViz Experience LinkedIn About me Contact"
   },
   {
     "objectID": "index.html#pedro-césar-del-campo-neira-data-worker",
     "href": "index.html#pedro-césar-del-campo-neira-data-worker",
     "title": "Home",
     "section": "",
-    "text": "Conecto datos, negocio y políticas públicas para entregar insights accionables en movilidad, salud, fintech y sector público.\nVer portafolio Experiencia Contactar Acerca de mí LinkedIn"
+    "text": "I connect data, business, and public policy to deliver actionable insights across mobility, health, fintech, and the public sector.\nView portfolio Experience Contact About me LinkedIn"
   },
   {
     "objectID": "projects/bogota-road-safety-annual-reports.html",
@@ -110,5 +110,12 @@
     "title": "Bogota Road Safety Annual Reports",
     "section": "",
     "text": "Annual analysis of road crashes in Bogota to support public policy decisions and prioritize safer interventions. The reports bring together crash data, victims, and risk factors to produce clear, actionable narratives.\n\nProject summary\n\nIntegrating crash datasets with geocoding by district and road type.\nYear-over-year trends broken down by road user, severity, and time of day.\nHeatmaps and executive tables for mobility and road safety leaders.\n\n\n\nMethodology\n\nCleaning and standardizing official sources (SIOVT/BO, Traffic Police).\nTrend models and interannual comparisons with confidence intervals.\nHotspot detection and intervention prioritization using reproducible rules.\n\n\n\nKey deliverables\n\nAnnual report ready for publication with Quarto visualizations.\nInteractive dashboards for monthly monitoring and quick evidence sharing.\nReproducible indicators (rate per 100k inhabitants, KSI, severity) with documentation.\n\n\n\nTechnologies\nR, Quarto, Power BI/Maps, Git for version control."
+  },
+  {
+    "objectID": "index.html#hi-im-pedro-c.-del-campo-data-worker",
+    "href": "index.html#hi-im-pedro-c.-del-campo-data-worker",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my site. Here you’ll find my selected projects, dataviz work, and experience. If you want to go deeper, you can check my LinkedIn, About Me, or reach out directly.\nView portfolio DataViz Experience LinkedIn About me Contact"
   }
 ]
